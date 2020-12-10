@@ -6,7 +6,7 @@
 
 ##  家庭成员
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\网页\南瓜爸爸.jpg" style="zoom:60%;" />
+<img src="C:\Users\Administrator\Pictures\image\南瓜爸爸.jpg" style="zoom:50%;" />
 
 <center> 南瓜爸爸<center/>
 
