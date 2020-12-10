@@ -2,7 +2,7 @@
 
 # <font color="pink" size = 52>**欢迎来到南瓜小屋!**</font>
 
-![](C:\Users\Administrator\Documents\zhangyanan525.github.io\网页\南瓜小屋.jpg)
+![](C:\Users\Administrator\Pictures\image\南瓜小屋.jpg)
 
 ##  家庭成员
 
@@ -13,7 +13,6 @@
 <img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\网页\妈妈.jpg" style="zoom:40%;" />
 
 <center> 南瓜妈妈<center/>
-
 <img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\网页\南瓜.jpg" style="zoom:50%;" />
 
 <center> 小南瓜本人<center/>
