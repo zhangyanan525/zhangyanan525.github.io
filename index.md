@@ -2,7 +2,7 @@
 
 # <font color="pink" size = 52>**欢迎来到南瓜小屋!**</font>
 
-![](C:\Users\Administrator\Pictures\image\南瓜小屋.jpg)
+![](C:\Users\Administrator\Pictures\image\1.jpg)
 
 ##  家庭成员
 
