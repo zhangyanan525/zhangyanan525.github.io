@@ -1,21 +1,22 @@
 # MDwiki
 
-[About](index.md)
+[个人主页](index.md)
 
-[English]()
+[南瓜书吧]()
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
-  - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [文学名著](南瓜书吧/文学名著.md)
+  * [专业书籍](南瓜书吧/专业书籍.md)
 
-[Math]()
+[南瓜影像]()
 
-  * [Levy Processes](math/levy_processes.md)
+  * [电影推荐](南瓜影像/电影推荐.md)
 
-[Coding](coding/PythonNote.md)
+  * [个人感悟](南瓜影像/个人感悟.md)
 
+[南瓜学习]()
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+ * [英语学习](南瓜学习/英语学习.md)
+ * [人力资源管理](南瓜学习/人力资源管理.md)
+ * [计算机技能](南瓜学习/计算机技能.md)
+ * [生活技能](南瓜学习/生活技能.md)
+
