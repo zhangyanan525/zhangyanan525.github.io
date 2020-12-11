@@ -2,18 +2,18 @@
 
 # <font color="pink" size = 52>**欢迎来到南瓜小屋!**</font>
 
-![](C:\Users\Administrator\Documents\zhangyanan525.github.io\image\1.jpg)
+![](1.jpg)
 
 ##  家庭成员
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\南瓜爸爸.jpg" style="zoom:50%;" />
+<img src="南瓜爸爸.jpg" style="zoom: 67%;" />
 
 <center> 南瓜爸爸<center/>
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\妈妈.jpg" style="zoom:40%;" />
+<img src="妈妈.jpg" style="zoom:40%;" />
 
 <center> 南瓜妈妈<center/>
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\南瓜.jpg" style="zoom:50%;" />
+<img src="南瓜.jpg" style="zoom:50%;" />
 
 <center> 小南瓜本人<center/>
 
@@ -41,19 +41,19 @@
 
 * 舞蹈
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\舞蹈1.jpg" style="zoom:80%;" />
+<img src="舞蹈1.jpg" style="zoom:80%;" />
 
 > 小南瓜的古典舞、华尔兹、民族舞都不错~
 
 * 长跑
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\长跑.jpg" style="zoom:67%;" />
+<img src="长跑.jpg" style="zoom:67%;" />
 
 > 每天坚持长跑的小南瓜，体质很好哦！
 
 * 旅行
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\风景1.jpg" alt="风景1" style="zoom: 67%;" /><img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\风景2.jpg" alt="风景2" style="zoom:30%;" /><img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\风景3.jpg" alt="风景3" style="zoom: 33%;" /><img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\风景4.jpg" alt="风景4" style="zoom:20%;" />
+<img src="风景1.jpg" alt="风景1" style="zoom: 67%;" /><img src="风景2.jpg" alt="风景2" style="zoom:30%;" /><img src="风景3.jpg" alt="风景3" style="zoom: 33%;" /><img src="风景4.jpg" alt="风景4" style="zoom:20%;" />
 
 > 希望可以领略更美的风景~
 
@@ -61,7 +61,7 @@
 
 邮箱: 1403947356@qq.com
 
-<img src="C:\Users\Administrator\Documents\zhangyanan525.github.io\image\南瓜小屋2.jpg" style="zoom:150%;" />
+<img src="南瓜小屋2.jpg" style="zoom:150%;" />
 
 
 
