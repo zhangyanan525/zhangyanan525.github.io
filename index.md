@@ -6,14 +6,15 @@
 
 ##  家庭成员
 
-<img src="南瓜爸爸.jpg" style="zoom: 67%;" />
+![](南瓜爸爸.jpg)
 
 <center> 南瓜爸爸<center/>
 
-<img src="妈妈.jpg" style="zoom:40%;" />
+![](妈妈.jpg)
 
 <center> 南瓜妈妈<center/>
-<img src="南瓜.jpg" style="zoom:50%;" />
+
+![](2.jpg)
 
 <center> 小南瓜本人<center/>
 
@@ -41,28 +42,25 @@
 
 * 舞蹈
 
-<img src="舞蹈1.jpg" style="zoom:80%;" />
-
+![](舞蹈1.jpg)
 > 小南瓜的古典舞、华尔兹、民族舞都不错~
 
 * 长跑
 
-<img src="长跑.jpg" style="zoom:67%;" />
+![](长跑.jpg)
 
 > 每天坚持长跑的小南瓜，体质很好哦！
 
 * 旅行
 
-<img src="风景1.jpg" alt="风景1" style="zoom: 67%;" /><img src="风景2.jpg" alt="风景2" style="zoom:30%;" /><img src="风景3.jpg" alt="风景3" style="zoom: 33%;" /><img src="风景4.jpg" alt="风景4" style="zoom:20%;" />
-
+![](风景1.jpg)![](风景2.jpg)![](风景3.jpg)![](风景4.jpg)
 > 希望可以领略更美的风景~
 
 ## 联系方式
 
 邮箱: 1403947356@qq.com
 
-<img src="南瓜小屋2.jpg" style="zoom:150%;" />
-
+![](南瓜小屋2.jpg)
 
 
 
